@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
   <a href="https://get.foundation/">
     <img src="https://user-images.githubusercontent.com/9939075/38782856-2a64a43e-40fa-11e8-89cd-e873af03b3c4.png" alt="Foundation for Sites 6" width="448px" style="max-width:100%;"/>
   </a>
@@ -66,6 +66,6 @@ Check out [CONTRIBUTING.md](CONTRIBUTING.md) to see how to report an issue or su
 
 <!-- ## Training
 
-Want the guided tour to Foundation from the team that built it? The ZURB team offers comprehensive training courses for developers of all skill levels. If you're new to Foundation, check out the [Introduction to Foundation Course](http://zurb.com/university/foundation-intro?utm_source=Github%20Repo&utm_medium=website&utm_campaign=readme&utm_content=readme%20training%20link) to kickstart your skills, amplify your productivity, and get a comprehensive overview of everything Foundation has to offer. More advanced users should check out the [Advanced Foundation Course](http://zurb.com/university/advanced-foundation-training?utm_source=Github%20Repo&utm_medium=website&utm_campaign=readme&utm_content=readme%20training%20link) to learn the Advanced skills that ZURB uses to deliver quality client work in short timeframes. -->
+Want the guided tour to Foundation from the team that built it? The ZURB team offers comprehensive training courses for developers of all skill levels. If you're new to Foundation, check out the [Introduction to Foundation Course](http://zurb.com/university/foundation-intro?utm_source=Github%20Repo&utm_medium=website&utm_campaign=readme&utm_content=readme%20training%20link) to kickstart your skills, amplify yosur productivity, and get a comprehensive overview of everything Foundation has to offer. More advanced users should check out the [Advanced Foundation Course](http://zurb.com/university/advanced-foundation-training?utm_source=Github%20Repo&utm_medium=website&utm_campaign=readme&utm_content=readme%20training%20link) to learn the Advanced skills that ZURB uses to deliver quaslity client work in short timeframes. -->
 
 Copyright © 2020 Foundation Community
